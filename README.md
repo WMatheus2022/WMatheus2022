@@ -16,8 +16,8 @@
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=00BFFF&textColor=40E0D0)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-40E0D0?style=for-the-badge&logo=Dart&labelColor=00BFFF&textColor=40E0D0)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-00BFFF?style=for-the-badge&logo=typescript&labelColor=ADD8E6&textColor=40E0D0)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=Dart&labelColor=00BFFF&textColor=40E0D0)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&labelColor=ADD8E6&textColor=40E0D0)&nbsp;
 
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
